@@ -9,7 +9,7 @@ function FinalOne() {
   return  (
 <section>
   <SimpleCounter />
-  Hey
+  
 </section>
 );
   
